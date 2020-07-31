@@ -4,9 +4,9 @@
       "ordre": 363,
       "details": {
          "nom": "amia",
-         "prenom": "thierry"
+         "prenom": "thierry",
          "carte professionel": {
-            "profession" : "Informaticien"
+            "profession" : "Informaticien",
             "type_profession": {
                                   "langage_dev" : {
                                   "name": "html"
