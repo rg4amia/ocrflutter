@@ -5,7 +5,7 @@
       "details": {
          "nom": "amia",
          "prenom": "thierry",
-         "carte professionel": {
+         "carteprofessionel": {
             "profession" : "Informaticien",
             "type_profession":{ "name": "flutter",
                                "level": 5
