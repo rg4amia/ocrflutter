@@ -7,19 +7,9 @@
          "prenom": "thierry",
          "carte professionel": {
             "profession" : "Informaticien",
-            "type_profession": {
-                                  "langage_dev" : {
-                                  "name": "html",
-                                  "level": 5
-                                  },
-                                   {
-                                  "name": "js",
-                                  "level": 5
-                                  },
-                                   {
-                                  "name": "flutter",
-                                  "level": 5
-                                  }
+            "type_profession":{ "name": "flutter",
+                               "level": 5
+                              }
             }
          }
          
