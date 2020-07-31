@@ -9,15 +9,15 @@
             "profession" : "Informaticien",
             "type_profession": {
                                   "langage_dev" : {
-                                  "name": "html"
+                                  "name": "html",
                                   "level": 5
                                   },
                                    {
-                                  "name": "js"
+                                  "name": "js",
                                   "level": 5
                                   },
                                    {
-                                  "name": "flutter"
+                                  "name": "flutter",
                                   "level": 5
                                   }
             }
