@@ -1,0 +1,20 @@
+{
+"address": {
+    "id": "1212",
+    "details": {
+      "ordre": 363,
+      "details": {
+         "nom": "amia",
+         "prenom": "thierry",
+         "carteprofessionel": {
+            "profession" : "Informaticien",
+            "type_profession":{ "name": "flutter",
+                               "level": 5
+                              }
+            }
+         }
+         
+      }
+    }
+  }
+}
